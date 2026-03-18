@@ -1,5 +1,3 @@
-import type { FC } from "react";
-
 interface Transaction {
   id: number;
   name: string;
